@@ -7,7 +7,7 @@ const e = a === joe;
 const bitcoinPrice = 6191;
 const marginCallLine = 6098;
 if (bitcoinPrice <= marginCallLine) {
-	console.log('Ooops! your position was liquidated')
+	console.log('Ooops! your position was liquidated';)
 	} else {
-	console.log('Watch out your margin call line is at 6098')
+	console.log('Watch out your margin call line is at 6098';)
 	}
